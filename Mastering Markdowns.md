@@ -3,7 +3,7 @@
 
 ## emphasize
 
-To emphasize a certain Word or a sentence use ** at the beginning of word or sentence to **bold** them or * to give them *italic* style
+To emphasize a certain Word or a sentence use ** at the beginning and at the end of the word or the sentence to **bold** them or * to give them *italic* style
 or we can make them both ***italic and bold*** by using ***
 
 ## Adding images
