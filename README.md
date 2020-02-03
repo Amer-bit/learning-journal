@@ -20,5 +20,5 @@ i did it more than once but if u need new paragraph just leave blank line
 
 File Name | Link
 --------- | -----
-Mastering Markdowns | [Read01](https://amer-bit.github.io/learning-journal/)
-Terminal&Text ediors | [Read02](https://amer-bit.github.io/learning-journal/)
+Mastering Markdowns | [Read01](https://amer-bit.github.io/learning-journal/Mastering Markdowns)
+Terminal&Text ediors | [Read02](https://amer-bit.github.io/learning-journal/Terminal&Text editors)
