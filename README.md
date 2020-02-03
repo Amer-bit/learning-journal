@@ -2,7 +2,7 @@
 
 ## From Zarqa
 
-**Adding two stars at the start of the sentence and the end of it will add bold style**
+**Adding two stars at the start of the sentence and at the end of it will add bold style**
 
 If we needed to quote some one you must use > for example: My wise friend once said 
 >lol
@@ -14,3 +14,11 @@ To express your feeling using emoji you should use github emoji code like :smile
 i did it more than once but if u need new paragraph just leave blank line
 
 :D  :+1:
+
+
+### links to other files in learning-journal Repo
+
+File Name | Link
+--------- | -----
+Mastering Markdowns | [Read01](https://amer-bit.github.io/learning-journal/)
+Terminal&Text ediors | [Read02](https://amer-bit.github.io/learning-journal/)
