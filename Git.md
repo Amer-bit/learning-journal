@@ -32,7 +32,7 @@ Track the changes made to file and prevent data loss
 
 # Setting a Git Repo
 
-1. Importing 
+* Importing 
 
 1. create Repo on GitHub
 2. clone the Repo by clicking clone or download button on github or by using clone repo url command in ubuntu
