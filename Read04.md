@@ -16,7 +16,7 @@ Differentiate between informations using style, size and colors and group simila
 # HTML5 Layouts
 In the old HTML div was used to divide different part of the page this would make the process and modifing the webpage rather complex HTML5 introduces new set of tags to divide up the page and thier name will indicate the type of content they should divide.
 
-#### Examples of the neew elemnts
+#### Examples of the new elements
 - header
 - footer
 - article
