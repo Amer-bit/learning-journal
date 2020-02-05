@@ -3,7 +3,7 @@
     padding: 50px;
      }
 nav{background-color: #FFE19E;
- }
+    }
 a{
     text-decoration: none;
      font-size: 17px;
@@ -13,7 +13,7 @@ li{display: inline;
     padding: 50px;
     }
     
-    .headline{color:#5EB3FF}
+    .headline{color:#5EB3FF;}
     
     p{font-size: 15px;
     color: rgb(50,20,170);

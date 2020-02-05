@@ -12,4 +12,3 @@ if (enth < 50)
     document.write ("<h2>No Take me to my Mom</h2")
 }
 }
-
