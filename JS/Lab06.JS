@@ -9,5 +9,5 @@ if (Enthusiasm < 50)
 {
     alert('No Take me to my Mom');
     document.write ("<h2>No Take me to my Mom</h2")
-}
+} 
 }
