@@ -1,5 +1,3 @@
-
-
 function enthu(enth) {
     if(enth >= 50 )
 {

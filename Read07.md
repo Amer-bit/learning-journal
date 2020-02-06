@@ -18,3 +18,8 @@ specify your goals then break them down to smaller piecesthen code each step
 6. use capital letter after the first word like coolIdea or just use underscore
  ## Arrays
 An array is a special type of variable which can store a list of data value
+
+## Functions
+Function consist of series of statements that have been grouped togther to perform a specific task
+
+function must be declared then to exexutes the series of commands th function must be invoked
