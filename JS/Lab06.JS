@@ -19,7 +19,8 @@ if ( a==false ){alert("leave the page Plz ");}
 function galaxy(){
   var kind;
   var img= '';
-  while(kind!=="planet"&&kind!=="space"){;
+  while(kind!=="planet"&&kind!=="space"){
+      var reapet= alert('Choose planet or space')
      kind= prompt("which phote do you want to show");}
   var numberofimgs;
   numberofimgs=prompt("how many images do you want to see?");
